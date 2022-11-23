@@ -8,9 +8,9 @@ Here on my GitHub profile you can see all my projects, if you want you can also 
 
 💻  &nbsp; Full Stack developer
 
-🎓 &nbsp; Generation Brasil - BootCamp Desenvolvedor FullcStack
+🎓 &nbsp; Generation Brasil - BootCamp Desenvolvedor FullStack
 
-🏆 &nbsp; My skills: HTML, CSS, JavaScript, TypeScript, Git e MySQL
+🏆 &nbsp; My skills: HTML, CSS, JavaScript, TypeScript, Java, Git e MySQL.
 
 📚 &nbsp; I am learning: React Native, React, Angular.
 
